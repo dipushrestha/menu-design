@@ -1,0 +1,10 @@
+.navbar-wrapper {
+  width: 100%;
+  background: black;
+}
+
+.navbar {
+  width: 80%;
+  margin: 0 auto;
+  /* background-color: red; */
+}

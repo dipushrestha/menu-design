@@ -9,4 +9,4 @@ Clone with HTTPS:\
 [Download zip](https://github.com/dipushrestha/menu-design/archive/master.zip)
   
 
-You can checkout this template [here](https://dipushrestha.github.io/menu-design). :+1:
+You can checkout this template [here](https://dipushrestha.github.io/menu-design). :happy:

@@ -51,8 +51,22 @@
   margin-left: 135px;
 }
 
-@media screen and (max-width: 700px) {
-  .navbar-list li{
-    display: none;
-  }
+.burger-menu {
+  width: 50px;
+  display: none;
 }
+
+@media screen and (max-width: 700px) {
+  .navbar-list li { display: none; }
+  .burger-menu { display: block; }
+
+  .navbar-wrapper:hover li {
+    width: 100%; 
+    display: block;
+  }
+  
+  .navbar-wrapper:hover .burger-menu { display: none; }
+  .dropdown-submenu { position: relative; }
+}
+
+
